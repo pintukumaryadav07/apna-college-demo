@@ -1,3 +1,4 @@
-# apna-college-demo
-this is my first git repository
-author-pintu kumar yadav
+# Apna-College-Demo
+<br>
+This is my first git repository
+Author-Pintu kumar yadav
